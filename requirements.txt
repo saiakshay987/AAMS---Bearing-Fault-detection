@@ -1,4 +1,11 @@
-numpy
+python-dotenv
 pandas
-
--e .
+numpy
+scikit-learn
+certifi
+dill
+#pickle
+pyyaml
+mlflow
+dagshub
+#-e .
