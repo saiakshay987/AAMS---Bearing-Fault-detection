@@ -1,0 +1,1 @@
+# AAMS---Bearing-Fault-detection
